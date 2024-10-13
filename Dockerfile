@@ -1,1 +1,1 @@
-FROM docker.io/tqwyuqwhqocwqivuca/ugyvbieu:latest
+FROM docker.io/nvywueqfoxa/cftryub:latest
